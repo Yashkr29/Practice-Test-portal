@@ -1,4 +1,3 @@
-import React from 'react';
 
 const PracticeTests = () => {
   return (
@@ -13,15 +12,6 @@ const PracticeTests = () => {
       <div className="flex items-center gap-8 border-b border-gray-200 mb-8">
         <button className="pb-4 px-2 font-semibold text-gray-900 border-b-2 border-accent relative">
           Subject Wise
-        </button>
-        <button className="pb-4 px-2 font-semibold text-gray-500 hover:text-gray-900 transition-colors">
-          Topic Wise
-        </button>
-        <button className="pb-4 px-2 font-semibold text-gray-500 hover:text-gray-900 transition-colors">
-          Subtopic Wise
-        </button>
-        <button className="pb-4 px-2 font-semibold text-gray-500 hover:text-gray-900 transition-colors">
-          Assigned Tests
         </button>
       </div>
 
